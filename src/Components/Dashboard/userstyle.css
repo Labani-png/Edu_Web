@@ -1,0 +1,11 @@
+
+.user_detail{
+    background-image: url('../public/assets/img/user_dashboard.jpg');
+    background-position: center;
+    background-size: 100% 600px;
+    /* height: 600px; */
+    /* width: 100%; */
+    background-attachment: fixed;
+    background-size: cover; 
+    
+  }

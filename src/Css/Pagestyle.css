@@ -1,0 +1,78 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Prompt', sans-serif;    
+
+
+}
+
+
+
+.navbar{
+  background-color: #d5e7fb!important;
+ 
+}
+.navbar-brand{
+  color: #ff1228!important;
+  /* font-family: 'Prompt', sans-serif!important; */
+  font-weight: bold;
+}
+.nav-link{
+  color: #ff1228!important;
+  /* font-family: 'Prompt', sans-serif; */
+
+}
+
+.regis_form{
+  background-color: #a3ffb4!important;
+  width: 30vw!important;
+  height: 100%!important;
+  margin-top: 30px!important;
+  padding-top: 23px!important;
+  padding-bottom: 23px!important;
+  box-shadow: 2px 2px 3px 0 #6ddccf;
+  border-radius: 7px;
+  font-family: 'Prompt', sans-serif;  
+
+}
+
+.btn-primary{
+  color: #ffffff;
+  background-color: #bc0819;
+  /* border-color: #007bff; */
+  padding: 7px 33px;
+ 
+
+}
+
+h4{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+/* ................Footer Container................ */
+
+
+
+.footer-section{
+  padding-top: 20px!important;
+  padding-bottom: 17px!important;
+  color: #fff;
+  text-align: center!important;
+  background-color: #0b111f!important;
+  margin-top: 23px;
+}
+
+
+.icon img{
+  width: 2%!important;
+  margin: 13px 10px!important;
+}
+

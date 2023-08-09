@@ -11,3 +11,200 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+
+
+
+
+/* my custom css ................*/
+
+
+.regis_form{
+  background-color: #b6ffc3!important;
+  width: 30vw!important;
+  height: 100%!important;
+  margin-top: 53px!important;
+  padding-top: 23px!important;
+  padding-bottom: 23px!important;
+  box-shadow: 2px 2px 3px 0 #6ddccf;
+  border-radius: 7px;
+  font-family: 'Prompt', sans-serif;  
+
+}
+
+/* .btn-primary{ */
+  /* color: #ffffff; */
+  /* background-color: #bc0819; */
+  /* border-color: #007bff; */
+  /* padding: 7px 33px;  */
+  /* margin-top: 12px; */
+ 
+
+/* } */
+
+h4{
+  text-align: center;
+}
+
+
+.form-control{
+  margin-top: 12px;
+}
+
+
+.card-bg{
+  background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('../public/assets/img/user_dashboard.jpg');
+  background-position: center;
+  background-size: 100% 120px;
+  /* height: 600px; */
+  /* width: 100%; */
+  /* background-attachment: fixed; */
+  background-size: cover;
+  color: white;
+}
+
+.course_card{
+  margin-left: 22px;
+  margin-top: 33px;
+}
+
+
+.course_image{
+  width: 100%;
+  
+}
+
+
+
+/* .......Contact page........ */
+
+
+
+
+.contact-banner-sec{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5),#009688), url('../public/assets/img/office-ph.jpg');
+  background-position: center;
+  background-size: 100% 672px;
+  width: 100%;
+  height: 672px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.chat-box{
+  width: 35px;
+  height: 35px;
+}
+
+.contact-jumbotron{
+  padding-top: 70px;
+  /* text-align: right; */
+}
+
+.contact-display{
+  color: #222831;
+  text-align: right;
+    font-family: 'Righteous', cursive;
+    margin-top: 40px;
+}
+.contact-row{
+  width: 100%;
+}
+
+.contact-col-lg-6{
+
+  width: 23%;
+  float: left;
+  /* margin-top: 40px; */
+  padding-top: 221px;
+
+}
+
+.first-card{
+  box-shadow: 2px 2px 3px 0 #6ddccf;
+  text-align: center;
+
+}
+
+.second-card{
+  box-shadow: 2px 2px 3px 0 #6ddccf;
+  text-align: center;
+  margin-left: 40px;
+
+}
+.my-card-text{
+  font-family: 'Righteous', cursive;
+}
+
+
+.form-section{
+  margin-top: 60px!important;
+
+}
+
+.contact-heading{
+
+font-family: 'Righteous', cursive;
+text-align:left;
+
+
+}
+.from-para{
+  text-align: left;
+}
+
+.from-para-2{
+text-align: left;
+color: #ec5858;
+
+}
+
+.from-heading{
+  font-family: 'Righteous', cursive;
+  text-align: left;
+}
+
+.con-form-para{
+text-align: left;
+
+}
+
+.from{
+  text-align: left!important;
+}
+
+.text-box{
+  padding-right: 472px!important;
+  padding-top: 6px;
+  padding-bottom: 6px;
+
+
+
+  }
+
+.mail-box{
+  padding-right: 472px!important;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+
+.sub-button{
+  background-color: #ec4646;
+  border: none;
+  padding-left: 12px;
+  padding-right: 12px;
+  color: white;
+  border-radius: 4px;
+}
+
+/* .srch_div{
+  display: flex;
+  
+} */
+
+
+
+
